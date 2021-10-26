@@ -153,51 +153,47 @@
 	<conflictAreas>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10000" mesoCritGap="3.5" minGapBlockDef="3" no="2" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10001" mesoCritGap="3.5" minGapBlockDef="3" no="3" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10001" mesoCritGap="3.5" minGapBlockDef="3" no="5" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10001" mesoCritGap="3.5" minGapBlockDef="3" no="5" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="10" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="11" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="12" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="13" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="1" link2="10000" mesoCritGap="3.5" minGapBlockDef="3" no="14" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10004" mesoCritGap="3.5" minGapBlockDef="3" no="15" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10004" mesoCritGap="3.5" minGapBlockDef="3" no="17" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="28" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="33" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="12" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="13" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="1" link2="10000" mesoCritGap="3.5" minGapBlockDef="3" no="14" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10004" mesoCritGap="3.5" minGapBlockDef="3" no="15" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10004" mesoCritGap="3.5" minGapBlockDef="3" no="17" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="28" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="33" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="34" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="35" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="36" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="37" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="35" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="36" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="37" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="39" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="40" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="41" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="41" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10006" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="44" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="64" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10007" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="67" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="68" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="64" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10007" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="67" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="68" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10002" mesoCritGap="3.5" minGapBlockDef="3" no="69" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10002" mesoCritGap="3.5" minGapBlockDef="3" no="70" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="75" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="77" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10002" mesoCritGap="3.5" minGapBlockDef="3" no="70" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="75" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="77" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10009" mesoCritGap="3.5" minGapBlockDef="3" no="78" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10009" mesoCritGap="3.5" minGapBlockDef="3" no="81" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10009" mesoCritGap="3.5" minGapBlockDef="3" no="81" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="82" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="84" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="85" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="86" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="87" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10007" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="88" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="89" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="102" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="103" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10004" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="104" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="105" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="106" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="107" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="108" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10000" mesoCritGap="3.5" minGapBlockDef="3" no="109" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="110" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="111" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="116" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="84" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10001" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="85" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="86" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="87" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10007" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="88" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10010" mesoCritGap="3.5" minGapBlockDef="3" no="89" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="102" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10003" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="103" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10004" link2="10005" mesoCritGap="3.5" minGapBlockDef="3" no="104" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="105" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10007" mesoCritGap="3.5" minGapBlockDef="3" no="106" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10008" mesoCritGap="3.5" minGapBlockDef="3" no="107" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10005" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="108" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10012" mesoCritGap="3.5" minGapBlockDef="3" no="117" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10013" mesoCritGap="3.5" minGapBlockDef="3" no="118" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10013" mesoCritGap="3.5" minGapBlockDef="3" no="119" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -217,13 +213,13 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10013" link2="10016" mesoCritGap="3.5" minGapBlockDef="3" no="134" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10014" link2="10016" mesoCritGap="3.5" minGapBlockDef="3" no="135" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10015" link2="10016" mesoCritGap="3.5" minGapBlockDef="3" no="136" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10017" mesoCritGap="3.5" minGapBlockDef="3" no="137" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10017" mesoCritGap="3.5" minGapBlockDef="3" no="137" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10018" mesoCritGap="3.5" minGapBlockDef="3" no="138" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10018" mesoCritGap="3.5" minGapBlockDef="3" no="139" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="11" link2="10017" mesoCritGap="3.5" minGapBlockDef="3" no="140" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="11" link2="10018" mesoCritGap="3.5" minGapBlockDef="3" no="141" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10017" link2="10018" mesoCritGap="3.5" minGapBlockDef="3" no="143" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10019" mesoCritGap="3.5" minGapBlockDef="3" no="144" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="5" link2="10019" mesoCritGap="3.5" minGapBlockDef="3" no="144" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="12" link2="10019" mesoCritGap="3.5" minGapBlockDef="3" no="145" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="12" link2="10018" mesoCritGap="3.5" minGapBlockDef="3" no="149" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="11" link2="10021" mesoCritGap="3.5" minGapBlockDef="3" no="154" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -279,12 +275,12 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="20" link2="10036" mesoCritGap="3.5" minGapBlockDef="3" no="215" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="21" link2="10036" mesoCritGap="3.5" minGapBlockDef="3" no="216" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10035" link2="10036" mesoCritGap="3.5" minGapBlockDef="3" no="217" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10037" mesoCritGap="3.5" minGapBlockDef="3" no="218" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10037" mesoCritGap="3.5" minGapBlockDef="3" no="218" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10038" mesoCritGap="3.5" minGapBlockDef="3" no="219" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="22" link2="23" mesoCritGap="3.5" minGapBlockDef="3" no="220" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10039" mesoCritGap="3.5" minGapBlockDef="3" no="221" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="23" link2="10039" mesoCritGap="3.5" minGapBlockDef="3" no="222" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10040" mesoCritGap="3.5" minGapBlockDef="3" no="223" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10040" mesoCritGap="3.5" minGapBlockDef="3" no="223" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="7" link2="10041" mesoCritGap="3.5" minGapBlockDef="3" no="224" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="8" link2="10041" mesoCritGap="3.5" minGapBlockDef="3" no="225" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="24" link2="10041" mesoCritGap="3.5" minGapBlockDef="3" no="226" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -303,30 +299,30 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10034" link2="10052" mesoCritGap="3.5" minGapBlockDef="3" no="240" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10053" mesoCritGap="3.5" minGapBlockDef="3" no="241" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="33" link2="10053" mesoCritGap="3.5" minGapBlockDef="3" no="242" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10054" mesoCritGap="3.5" minGapBlockDef="3" no="243" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10054" mesoCritGap="3.5" minGapBlockDef="3" no="243" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10055" mesoCritGap="3.5" minGapBlockDef="3" no="244" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="35" link2="10055" mesoCritGap="3.5" minGapBlockDef="3" no="245" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10056" mesoCritGap="3.5" minGapBlockDef="3" no="246" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10056" mesoCritGap="3.5" minGapBlockDef="3" no="246" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10057" mesoCritGap="3.5" minGapBlockDef="3" no="247" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="37" link2="10057" mesoCritGap="3.5" minGapBlockDef="3" no="248" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10058" mesoCritGap="3.5" minGapBlockDef="3" no="249" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10058" mesoCritGap="3.5" minGapBlockDef="3" no="249" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10060" mesoCritGap="3.5" minGapBlockDef="3" no="250" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10060" mesoCritGap="3.5" minGapBlockDef="3" no="251" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="33" link2="10059" mesoCritGap="3.5" minGapBlockDef="3" no="252" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10059" link2="10060" mesoCritGap="3.5" minGapBlockDef="3" no="253" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="33" link2="10059" mesoCritGap="3.5" minGapBlockDef="3" no="252" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10059" link2="10060" mesoCritGap="3.5" minGapBlockDef="3" no="253" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10059" mesoCritGap="3.5" minGapBlockDef="3" no="254" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10061" mesoCritGap="3.5" minGapBlockDef="3" no="255" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10061" mesoCritGap="3.5" minGapBlockDef="3" no="255" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10061" mesoCritGap="3.5" minGapBlockDef="3" no="256" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10060" link2="10061" mesoCritGap="3.5" minGapBlockDef="3" no="257" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10062" mesoCritGap="3.5" minGapBlockDef="3" no="258" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10061" link2="10062" mesoCritGap="3.5" minGapBlockDef="3" no="259" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10063" mesoCritGap="3.5" minGapBlockDef="3" no="260" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10063" mesoCritGap="3.5" minGapBlockDef="3" no="261" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10064" mesoCritGap="3.5" minGapBlockDef="3" no="262" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10064" mesoCritGap="3.5" minGapBlockDef="3" no="262" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10064" mesoCritGap="3.5" minGapBlockDef="3" no="263" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10063" link2="10064" mesoCritGap="3.5" minGapBlockDef="3" no="264" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10065" mesoCritGap="3.5" minGapBlockDef="3" no="265" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10065" mesoCritGap="3.5" minGapBlockDef="3" no="266" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="4" link2="10065" mesoCritGap="3.5" minGapBlockDef="3" no="265" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10065" mesoCritGap="3.5" minGapBlockDef="3" no="266" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="UNDETERMINED" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10064" link2="10065" mesoCritGap="3.5" minGapBlockDef="3" no="267" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10066" mesoCritGap="3.5" minGapBlockDef="3" no="268" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="38" link2="10067" mesoCritGap="3.5" minGapBlockDef="3" no="270" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -343,7 +339,7 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="46" link2="10072" mesoCritGap="3.5" minGapBlockDef="3" no="283" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10071" link2="10072" mesoCritGap="3.5" minGapBlockDef="3" no="284" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="34" link2="10073" mesoCritGap="3.5" minGapBlockDef="3" no="285" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="47" link2="10074" mesoCritGap="3.5" minGapBlockDef="3" no="286" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="47" link2="10074" mesoCritGap="3.5" minGapBlockDef="3" no="286" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="40" link2="10073" mesoCritGap="3.5" minGapBlockDef="3" no="287" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="47" link2="10075" mesoCritGap="3.5" minGapBlockDef="3" no="288" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10073" link2="10075" mesoCritGap="3.5" minGapBlockDef="3" no="289" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -484,10 +480,10 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10107" link2="10108" mesoCritGap="3.5" minGapBlockDef="3" no="441" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10109" mesoCritGap="3.5" minGapBlockDef="3" no="442" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="56" link2="10109" mesoCritGap="3.5" minGapBlockDef="3" no="443" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10110" mesoCritGap="3.5" minGapBlockDef="3" no="444" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10110" mesoCritGap="3.5" minGapBlockDef="3" no="444" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="8" link2="10111" mesoCritGap="3.5" minGapBlockDef="3" no="445" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="57" link2="10111" mesoCritGap="3.5" minGapBlockDef="3" no="446" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="8" link2="10112" mesoCritGap="3.5" minGapBlockDef="3" no="447" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="8" link2="10112" mesoCritGap="3.5" minGapBlockDef="3" no="447" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="TWOYIELDSONE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="58" link2="10115" mesoCritGap="3.5" minGapBlockDef="3" no="452" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10116" mesoCritGap="3.5" minGapBlockDef="3" no="453" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="3" link2="10117" mesoCritGap="3.5" minGapBlockDef="3" no="454" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -543,14 +539,14 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="56" link2="10113" mesoCritGap="3.5" minGapBlockDef="3" no="518" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="58" link2="10126" mesoCritGap="3.5" minGapBlockDef="3" no="519" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10113" link2="10126" mesoCritGap="3.5" minGapBlockDef="3" no="520" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10126" mesoCritGap="3.5" minGapBlockDef="3" no="521" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10126" mesoCritGap="3.5" minGapBlockDef="3" no="521" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="56" link2="10126" mesoCritGap="3.5" minGapBlockDef="3" no="522" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="69" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="523" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="79" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="524" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10113" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="525" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="526" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="526" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10126" link2="10127" mesoCritGap="3.5" minGapBlockDef="3" no="527" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
-		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10144" mesoCritGap="3.5" minGapBlockDef="3" no="528" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10114" link2="10144" mesoCritGap="3.5" minGapBlockDef="3" no="528" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="ONEYIELDSTWO" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10127" link2="10144" mesoCritGap="3.5" minGapBlockDef="3" no="529" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="58" link2="10141" mesoCritGap="3.5" minGapBlockDef="3" no="530" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="73" link2="10141" mesoCritGap="3.5" minGapBlockDef="3" no="531" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
@@ -561,6 +557,10 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10132" link2="10142" mesoCritGap="3.5" minGapBlockDef="3" no="536" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10141" link2="10142" mesoCritGap="3.5" minGapBlockDef="3" no="537" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10142" link2="10143" mesoCritGap="3.5" minGapBlockDef="3" no="538" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="32" link2="10061" mesoCritGap="3.5" minGapBlockDef="3" no="539" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10000" link2="10009" mesoCritGap="3.5" minGapBlockDef="3" no="540" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10002" link2="10006" mesoCritGap="3.5" minGapBlockDef="3" no="541" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10004" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="542" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 	</conflictAreas>
 	<desAccelerationFunctions>
 		<desAccelerationFunction name="Car" no="1">
@@ -2541,16 +2541,16 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359347.6395456796" y="5735451.5918449629" zOffset="0"/>
-					<linkPolyPoint x="2359348.2627924308" y="5735458.5964781009" zOffset="0"/>
-					<linkPolyPoint x="2359346.7566820113" y="5735465.8666648958" zOffset="0"/>
-					<linkPolyPoint x="2359343.3342911676" y="5735472.3245823905" zOffset="0"/>
-					<linkPolyPoint x="2359339.778900614" y="5735479.7539609624" zOffset="0"/>
+					<linkPolyPoint x="2359350.1094109309" y="5735462.6876160083" zOffset="0"/>
+					<linkPolyPoint x="2359349.9505632925" y="5735469.9081451884" zOffset="0"/>
+					<linkPolyPoint x="2359346.742016816" y="5735477.24580684" zOffset="0"/>
+					<linkPolyPoint x="2359341.4531051321" y="5735482.827564585" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
 			<lanes>
 				<lane/>
 			</lanes>
-			<toLinkEndPt lane="3 2" pos="2.3378620090051521"/>
+			<toLinkEndPt lane="3 1" pos="2.3378620090051521"/>
 		</link>
 		<link assumSpeedOncom="60" consVehInDynPot="false" costPerKm="0" desSpeedFact="1" direction="ALL" displayType="1" emergStopDist="5" emiCalcAct="true" gradient="0" hasOvtLn="false" isPedArea="false" linkBehavType="1" linkEvalAct="true" linkEvalSegLen="10" lnChgDist="200" lnChgDistIsPerLn="false" lnChgEvalAct="true" lookAheadDistOvt="500" mesoFollowUpGap="0" mesoSpeed="50" mesoSpeedModel="VEHICLEBASED" name="" netPerfEvalAct="true" no="10001" ovtOnlyPT="false" ovtSpeedFact="1.3" showClsfValues="true" showLinkBar="true" showVeh="true" surch1="0" surch2="0" thickness="0" vehDynPotG="3" vehRecAct="true">
 			<fromLinkEndPt lane="4 1" pos="433.48150123769864"/>
@@ -2573,16 +2573,16 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359339.4224513206" y="5735475.7982758014" zOffset="0"/>
-					<linkPolyPoint x="2359344.3566586729" y="5735471.1632959619" zOffset="0"/>
-					<linkPolyPoint x="2359351.6562012481" y="5735471.4899603352" zOffset="0"/>
-					<linkPolyPoint x="2359358.0833809888" y="5735474.0251991181" zOffset="0"/>
-					<linkPolyPoint x="2359361.8064862634" y="5735478.5767362034" zOffset="0"/>
+					<linkPolyPoint x="2359346.4215949452" y="5735473.1904398762" zOffset="0"/>
+					<linkPolyPoint x="2359354.5535099898" y="5735472.1209376268" zOffset="0"/>
+					<linkPolyPoint x="2359361.5744509632" y="5735473.4158278648" zOffset="0"/>
+					<linkPolyPoint x="2359365.2406723727" y="5735477.9011694007" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
 			<lanes>
 				<lane/>
 			</lanes>
-			<toLinkEndPt lane="7 2" pos="0.17705838647710193"/>
+			<toLinkEndPt lane="7 1" pos="0.17705838647710193"/>
 		</link>
 		<link assumSpeedOncom="60" consVehInDynPot="false" costPerKm="0" desSpeedFact="1" direction="ALL" displayType="1" emergStopDist="5" emiCalcAct="true" gradient="0" hasOvtLn="false" isPedArea="false" linkBehavType="1" linkEvalAct="true" linkEvalSegLen="10" lnChgDist="200" lnChgDistIsPerLn="false" lnChgEvalAct="true" lookAheadDistOvt="500" mesoFollowUpGap="0" mesoSpeed="50" mesoSpeedModel="VEHICLEBASED" name="" netPerfEvalAct="true" no="10003" ovtOnlyPT="false" ovtSpeedFact="1.3" showClsfValues="true" showLinkBar="true" showVeh="true" surch1="0" surch2="0" thickness="0" vehDynPotG="3" vehRecAct="true">
 			<fromLinkEndPt lane="4 1" pos="429.70129272930598"/>
@@ -2672,8 +2672,8 @@
 				<linkPolyPts>
 					<linkPolyPoint x="2359369.6539952331" y="5735461.6894913744" zOffset="0"/>
 					<linkPolyPoint x="2359361.9835780654" y="5735465.9680360779" zOffset="0"/>
-					<linkPolyPoint x="2359354.2904172442" y="5735470.1317321174" zOffset="0"/>
-					<linkPolyPoint x="2359346.5972564234" y="5735474.2954281569" zOffset="0"/>
+					<linkPolyPoint x="2359357.8748349035" y="5735471.10930057" zOffset="0"/>
+					<linkPolyPoint x="2359351.1592425355" y="5735475.9247089112" zOffset="0"/>
 					<linkPolyPoint x="2359340.4858277505" y="5735481.3616696978" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
@@ -2704,9 +2704,9 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359354.2002004958" y="5735486.3448074274" zOffset="0"/>
-					<linkPolyPoint x="2359350.9982464979" y="5735474.2910426809" zOffset="0"/>
-					<linkPolyPoint x="2359347.8262814237" y="5735466.8238617592" zOffset="0"/>
-					<linkPolyPoint x="2359344.7503030617" y="5735459.3282349538" zOffset="0"/>
+					<linkPolyPoint x="2359349.607926921" y="5735474.91668649" zOffset="0"/>
+					<linkPolyPoint x="2359346.7140257619" y="5735467.1714416537" zOffset="0"/>
+					<linkPolyPoint x="2359343.9856272945" y="5735459.6062988695" zOffset="0"/>
 					<linkPolyPoint x="2359342.2146905093" y="5735451.6549119335" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
@@ -2721,16 +2721,17 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359359.1612782711" y="5735484.6271906756" zOffset="0"/>
-					<linkPolyPoint x="2359357.6462074742" y="5735474.6423580861" zOffset="0"/>
-					<linkPolyPoint x="2359357.2926807166" y="5735466.978663669" zOffset="0"/>
-					<linkPolyPoint x="2359358.9105319097" y="5735460.093642069" zOffset="0"/>
-					<linkPolyPoint x="2359367.2047216147" y="5735453.0101326089" zOffset="0"/>
+					<linkPolyPoint x="2359355.7981862184" y="5735475.191214052" zOffset="0"/>
+					<linkPolyPoint x="2359354.2708580247" y="5735470.9059215579" zOffset="0"/>
+					<linkPolyPoint x="2359353.7972088666" y="5735463.3895546" zOffset="0"/>
+					<linkPolyPoint x="2359356.0582509409" y="5735456.41795002" zOffset="0"/>
+					<linkPolyPoint x="2359365.4545525424" y="5735449.9791413173" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
 			<lanes>
 				<lane/>
 			</lanes>
-			<toLinkEndPt lane="5 2" pos="0"/>
+			<toLinkEndPt lane="5 1" pos="0"/>
 		</link>
 		<link assumSpeedOncom="60" consVehInDynPot="false" costPerKm="0" desSpeedFact="1" direction="ALL" displayType="1" emergStopDist="5" emiCalcAct="true" gradient="0" hasOvtLn="false" isPedArea="false" linkBehavType="2" linkEvalAct="true" linkEvalSegLen="10" lnChgDist="200" lnChgDistIsPerLn="false" lnChgEvalAct="true" lookAheadDistOvt="500" mesoFollowUpGap="0" mesoSpeed="50" mesoSpeedModel="VEHICLEBASED" name="" netPerfEvalAct="true" no="10012" ovtOnlyPT="false" ovtSpeedFact="1.3" showClsfValues="true" showLinkBar="true" showVeh="true" surch1="0" surch2="0" thickness="0" vehDynPotG="3" vehRecAct="true">
 			<fromLinkEndPt lane="10 1" pos="519.74579162006307"/>
@@ -3471,6 +3472,9 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359223.0910320482" y="5735523.9160210863" zOffset="0"/>
+					<linkPolyPoint x="2359224.8822276732" y="5735528.68106181" zOffset="0"/>
+					<linkPolyPoint x="2359227.3372740671" y="5735533.710873113" zOffset="0"/>
+					<linkPolyPoint x="2359228.60705988" y="5735538.1819772627" zOffset="0"/>
 					<linkPolyPoint x="2359226.842473763" y="5735541.2708965307" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
@@ -3484,6 +3488,9 @@
 			<geometry>
 				<linkPolyPts>
 					<linkPolyPoint x="2359234.8295278451" y="5735536.9203153681" zOffset="0"/>
+					<linkPolyPoint x="2359231.0664852187" y="5735537.34381051" zOffset="0"/>
+					<linkPolyPoint x="2359227.09466548" y="5735535.5129560977" zOffset="0"/>
+					<linkPolyPoint x="2359223.7817652719" y="5735532.28175615" zOffset="0"/>
 					<linkPolyPoint x="2359221.9954812406" y="5735528.5042146826" zOffset="0"/>
 				</linkPolyPts>
 			</geometry>
@@ -5359,28 +5366,109 @@
 			</distrDataPts>
 		</powerDistribution>
 	</powerDistributions>
+	<priorityRules>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10013 1" name="" no="1" pos="10.65020158209439" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="5 1" lookBeyRedSig="false" maxSpeed="180" minClear="10.362763060566493" minGapTime="3" pos="196.94448036072907"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="5 2" lookBeyRedSig="false" maxSpeed="180" minClear="9.9315130171658552" minGapTime="3" pos="196.93054228871972"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="6 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="324.30647483081532"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="6 3" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="324.27590817866491"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10 1" name="" no="2" pos="517.31841914130302" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10016 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="6.3131156520214038"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10061 1" name="" no="3" pos="0.9406832939407197" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="303.1912707605677"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="303.62587924057459"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 3" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="303.70539617494103"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10060 1" name="" no="4" pos="4.3198494967151735" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="3 1" lookBeyRedSig="false" maxSpeed="180" minClear="10.420252701090305" minGapTime="3" pos="117.04549326234755"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="3 2" lookBeyRedSig="false" maxSpeed="180" minClear="10.753282250290113" minGapTime="3" pos="117.27718203990509"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="301.94423226582904"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="301.94384189074214"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 3" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="301.95673036284842"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10059 1" name="" no="5" pos="1.8291598659253583" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="307.33684354819906"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="4 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="307.31872201841844"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10006 1" name="" no="6" pos="4.4633159564613507" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10005" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="13.295989477574395"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" intLink="10008" name="" no="7" pos="6.6591881769844266" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="384.53041253392939"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10009 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="7.8912996864589786"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="7.6312579985082154"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="7.5372332803909492"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10007 1" name="" no="8" pos="4.7510172306558038" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="384.21636603761243"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10001 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="9.953457426759341"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10003" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="11.326049445140027"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10010" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="9.8737208614656815"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10001 1" name="" no="11" pos="8.9296242607714937" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10010" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="20.904446828862067"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" intLink="10003" name="" no="12" pos="12.683454125730618" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="383.61866861935016"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10010" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="11.683264233541397"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10000 1" name="" no="13" pos="7.6270826678180086" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10009 1" lookBeyRedSig="false" maxSpeed="180" minClear="5.7300861682053794" minGapTime="3" pos="5.2887000032042533"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10010" lookBeyRedSig="false" maxSpeed="180" minClear="9.6921323279614704" minGapTime="3" pos="7.1380745897379798"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10011 1" name="" no="14" pos="18.156813765831757" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10004 1" lookBeyRedSig="false" maxSpeed="180" minClear="7.2702786171686569" minGapTime="3" pos="7.6488119450139074"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10005" lookBeyRedSig="false" maxSpeed="180" minClear="7.310083152585519" minGapTime="3" pos="0.5768542993678516"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10002 1" name="" no="15" pos="5.5357986846037148" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="382.85952834537466"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10006 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="6.4600858584287835"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10008" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="7.8213465092211774"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="10010" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="9.1920675356114803"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10011 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="8.9484189309692415"/>
+			</conflictMarkers>
+		</priorityRule>
+		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10018 1" name="" no="16" pos="6.4131384282943911" sigState="GREEN" slowDownDist="3">
+			<conflictMarkers>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="5" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="331.37255498131788"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" intLink="6" lookBeyRedSig="false" maxSpeed="180" minClear="10.334104881634914" minGapTime="3" pos="192.74042271251597"/>
+			</conflictMarkers>
+		</priorityRule>
+	</priorityRules>
 	<reducedSpeedAreas>
-		<reducedSpeedArea anmFlag="false" lane="10011 1" length="16.200162249605992" name="" no="3" pos="3.488061825198054" timeFrom="0" timeTo="2147483647">
-			<vehClassSpeedRed>
-				<vehClassSpeedReduction decel="2" desSpeedDistr="5" vehClass="10"/>
-			</vehClassSpeedRed>
-		</reducedSpeedArea>
 		<reducedSpeedArea anmFlag="false" lane="10009 1" length="4.5727222187016237" name="" no="4" pos="4.5936021268862097" timeFrom="0" timeTo="2147483647">
 			<vehClassSpeedRed>
 				<vehClassSpeedReduction decel="2" desSpeedDistr="5" vehClass="10"/>
 			</vehClassSpeedRed>
 		</reducedSpeedArea>
-		<reducedSpeedArea anmFlag="false" lane="10000 1" length="12.901719713447536" name="" no="5" pos="0.93441840254162356" timeFrom="0" timeTo="2147483647">
-			<vehClassSpeedRed>
-				<vehClassSpeedReduction decel="2" desSpeedDistr="5" vehClass="10"/>
-			</vehClassSpeedRed>
-		</reducedSpeedArea>
 		<reducedSpeedArea anmFlag="false" lane="10004 1" length="12.344346188352359" name="" no="8" pos="1.0471276905602787" timeFrom="0" timeTo="2147483647">
-			<vehClassSpeedRed>
-				<vehClassSpeedReduction decel="2" desSpeedDistr="5" vehClass="10"/>
-			</vehClassSpeedRed>
-		</reducedSpeedArea>
-		<reducedSpeedArea anmFlag="false" lane="10002 1" length="13.439075692624776" name="" no="9" pos="0.27999588316510593" timeFrom="0" timeTo="2147483647">
 			<vehClassSpeedRed>
 				<vehClassSpeedReduction decel="2" desSpeedDistr="5" vehClass="10"/>
 			</vehClassSpeedRed>
@@ -5714,6 +5802,11 @@
 				<timeIntervalVehVolume cont="false" timeInt="1 0" vehComp="1" volType="STOCHASTIC" volume="500"/>
 			</timeIntVehVols>
 		</vehicleInput>
+		<vehicleInput anmFlag="false" link="10" name="" no="17">
+			<timeIntVehVols>
+				<timeIntervalVehVolume cont="false" timeInt="1 0" vehComp="1" volType="STOCHASTIC" volume="100"/>
+			</timeIntVehVols>
+		</vehicleInput>
 	</vehicleInputs>
 	<vehicleRoutingDecisionsStatic>
 		<vehicleRoutingDecisionStatic allVehTypes="true" anmFlag="false" combineStaRoutDec="false" link="4" name="" no="1" pos="5.746997304239625" routeChoiceMeth="STATIC">
@@ -6032,24 +6125,6 @@
 				</vehicleRouteStatic>
 			</vehRoutSta>
 		</vehicleRoutingDecisionStatic>
-		<vehicleRoutingDecisionStatic allVehTypes="true" anmFlag="false" combineStaRoutDec="false" link="8" name="" no="12" pos="1.8458948706569551" routeChoiceMeth="STATIC">
-			<vehRoutSta>
-				<vehicleRouteStatic destLink="58" destPos="459.62826709969215" formula="" name="" no="1" relFlow="">
-					<linkSeq>
-						<intObjectRef key="10137"/>
-						<intObjectRef key="73"/>
-						<intObjectRef key="10133"/>
-					</linkSeq>
-				</vehicleRouteStatic>
-				<vehicleRouteStatic destLink="77" destPos="123.06370283873872" formula="" name="" no="2" relFlow="">
-					<linkSeq>
-						<intObjectRef key="10137"/>
-						<intObjectRef key="73"/>
-						<intObjectRef key="10141"/>
-					</linkSeq>
-				</vehicleRouteStatic>
-			</vehRoutSta>
-		</vehicleRoutingDecisionStatic>
 		<vehicleRoutingDecisionStatic allVehTypes="true" anmFlag="false" combineStaRoutDec="false" link="58" name="" no="13" pos="263.55879479892207" routeChoiceMeth="STATIC">
 			<vehRoutSta>
 				<vehicleRouteStatic destLink="58" destPos="387.00760481662553" formula="" name="" no="1" relFlow=""/>
@@ -6062,6 +6137,31 @@
 						<intObjectRef key="10131"/>
 						<intObjectRef key="72"/>
 						<intObjectRef key="10130"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+			</vehRoutSta>
+		</vehicleRoutingDecisionStatic>
+		<vehicleRoutingDecisionStatic allVehTypes="true" anmFlag="false" combineStaRoutDec="false" link="8" name="" no="15" pos="14.048865659781892" routeChoiceMeth="STATIC">
+			<vehRoutSta>
+				<vehicleRouteStatic destLink="8" destPos="636.7939419569102" formula="" name="" no="2" relFlow=""/>
+				<vehicleRouteStatic destLink="3" destPos="326.59373970101825" formula="" name="" no="3" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10009"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+				<vehicleRouteStatic destLink="5" destPos="149.19612884078956" formula="" name="" no="4" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10011"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+				<vehicleRouteStatic destLink="2" destPos="147.19097166737012" formula="" name="" no="5" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10010"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+				<vehicleRouteStatic destLink="73" destPos="19.098844079986648" formula="" name="" no="6" relFlow="2 0:0.2">
+					<linkSeq>
+						<intObjectRef key="10137"/>
 					</linkSeq>
 				</vehicleRouteStatic>
 			</vehRoutSta>
