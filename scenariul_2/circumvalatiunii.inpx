@@ -547,6 +547,114 @@
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10011" mesoCritGap="3.5" minGapBlockDef="3" no="551" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 		<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="6" link2="10003" mesoCritGap="3.5" minGapBlockDef="3" no="552" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
 	</conflictAreas>
+	<dataCollectionMeasurements>
+		<dataCollectionMeasurement name="Gh. Lazar V" no="1">
+			<dataCollectionPoints>
+				<intObjectRef key="1"/>
+				<intObjectRef key="2"/>
+				<intObjectRef key="3"/>
+			</dataCollectionPoints>
+		</dataCollectionMeasurement>
+		<dataCollectionMeasurement name="Circumvalatiunii S" no="2">
+			<dataCollectionPoints>
+				<intObjectRef key="4"/>
+				<intObjectRef key="5"/>
+				<intObjectRef key="6"/>
+			</dataCollectionPoints>
+		</dataCollectionMeasurement>
+		<dataCollectionMeasurement name="Gh. Lazar E" no="3">
+			<dataCollectionPoints>
+				<intObjectRef key="7"/>
+				<intObjectRef key="8"/>
+				<intObjectRef key="9"/>
+			</dataCollectionPoints>
+		</dataCollectionMeasurement>
+		<dataCollectionMeasurement name="Circumvalatiunii N" no="4">
+			<dataCollectionPoints>
+				<intObjectRef key="10"/>
+				<intObjectRef key="11"/>
+				<intObjectRef key="12"/>
+				<intObjectRef key="13"/>
+			</dataCollectionPoints>
+		</dataCollectionMeasurement>
+	</dataCollectionMeasurements>
+	<dataCollectionPoints>
+		<dataCollectionPoint lane="4 3" name="" no="1" pos="435.96689538208801"/>
+		<dataCollectionPoint lane="4 2" name="" no="2" pos="436.00106596442544"/>
+		<dataCollectionPoint lane="4 1" name="" no="3" pos="435.983436123388"/>
+		<dataCollectionPoint lane="1 3" name="" no="4" pos="381.36977567051372"/>
+		<dataCollectionPoint lane="1 2" name="" no="5" pos="381.37755228295254"/>
+		<dataCollectionPoint lane="1 1" name="" no="6" pos="381.33376447690148"/>
+		<dataCollectionPoint lane="6 3" name="" no="7" pos="540.71330681233326"/>
+		<dataCollectionPoint lane="6 2" name="" no="8" pos="540.70239744047365"/>
+		<dataCollectionPoint lane="6 1" name="" no="9" pos="540.69623677669119"/>
+		<dataCollectionPoint lane="8 4" name="" no="10" pos="642.75468854183475"/>
+		<dataCollectionPoint lane="8 3" name="" no="11" pos="642.75991131187436"/>
+		<dataCollectionPoint lane="8 2" name="" no="12" pos="642.73908370761671"/>
+		<dataCollectionPoint lane="10009 1" name="" no="13" pos="6.1017465009418563"/>
+	</dataCollectionPoints>
+	<delayMeasurements>
+		<delayMeasurement name="VE" no="1">
+			<vehTravTmMeas>
+				<intObjectRef key="1"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="VN" no="2">
+			<vehTravTmMeas>
+				<intObjectRef key="2"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="VS" no="3">
+			<vehTravTmMeas>
+				<intObjectRef key="3"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="NV" no="4">
+			<vehTravTmMeas>
+				<intObjectRef key="4"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="NS" no="5">
+			<vehTravTmMeas>
+				<intObjectRef key="5"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="NE" no="6">
+			<vehTravTmMeas>
+				<intObjectRef key="6"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="EV" no="7">
+			<vehTravTmMeas>
+				<intObjectRef key="7"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="EN" no="8">
+			<vehTravTmMeas>
+				<intObjectRef key="8"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="ES" no="9">
+			<vehTravTmMeas>
+				<intObjectRef key="9"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="SE" no="10">
+			<vehTravTmMeas>
+				<intObjectRef key="10"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="SV" no="11">
+			<vehTravTmMeas>
+				<intObjectRef key="11"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+		<delayMeasurement name="SN" no="12">
+			<vehTravTmMeas>
+				<intObjectRef key="12"/>
+			</vehTravTmMeas>
+		</delayMeasurement>
+	</delayMeasurements>
 	<desAccelerationFunctions>
 		<desAccelerationFunction name="Car" no="1">
 			<accelFuncDataPts>
@@ -1350,16 +1458,16 @@
 		<areaMeasResults collectData="false" fromTime="0" interval="99999" toTime="99999"/>
 		<areaResults collectData="false" fromTime="0" interval="99999" toTime="99999"/>
 		<convergence writeFile="false"/>
-		<dataColl collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<dataColl collectData="true" fromTime="60" interval="400" toTime="460"/>
 		<dataCollRawData fromTime="0" toTime="99999" writeFile="false"/>
-		<delays collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<delays collectData="true" fromTime="60" interval="400" toTime="460"/>
 		<dischRec fromTime="0" toTime="99999" writeFile="false"/>
 		<greenTimeDistribution fromTime="0" toTime="99999" writeFile="false"/>
-		<linkResults collectData="true" fromTime="60" interval="300" perLane="false" toTime="360"/>
+		<linkResults collectData="true" fromTime="60" interval="400" perLane="true" toTime="460"/>
 		<lnChgs filterType="ALL" fromTime="0" toTime="99999" writeFile="false"/>
 		<mesoEvaluationConfig collectData="false" fromTime="0" interval="99999" toTime="99999"/>
 		<nodeRawData fromTime="0" toTime="99999" writeDatabase="false" writeFile="false"/>
-		<nodeResults collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<nodeResults collectData="true" fromTime="60" interval="400" toTime="460"/>
 		<odPairs collectData="false" fromTime="0" interval="99999" toTime="99999"/>
 		<ptWaitingTimes writeFile="false"/>
 		<parkLotGrps collectData="false" fromTime="0" interval="99999" toTime="99999"/>
@@ -1379,17 +1487,13 @@
 		<pedTravTmODData fromTime="0" interval="99999" toTime="99999" writeFile="false"/>
 		<pedTravTmRawData fromTime="0" toTime="99999" writeFile="false"/>
 		<pedTravTms collectData="false" fromTime="0" interval="99999" toTime="99999"/>
-		<queues collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<queues collectData="true" fromTime="60" interval="400" toTime="460"/>
 		<scDetRec writeFile="false"/>
 		<ssam fromTime="0" toTime="99999" writeFile="false"/>
 		<sigChgs writeDatabase="false" writeFile="false"/>
-		<vehClasses>
-			<intObjectRef key="10"/>
-			<intObjectRef key="20"/>
-		</vehClasses>
 		<vehInpData writeFile="false"/>
-		<vehInps collectData="true" fromTime="60" interval="300" toTime="360"/>
-		<vehNetPerf collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<vehInps collectData="true" fromTime="60" interval="400" toTime="460"/>
+		<vehNetPerf collectData="true" fromTime="60" interval="400" toTime="460"/>
 		<vehRec filterType="ALL" fromTime="0" inclParkVehs="false" resolution="1" toTime="99999" writeDatabase="false" writeFile="false">
 			<attributes>
 				<attributeSelection attributeID="SIMSEC" decimals="2" format="SECONDS" showUnits="false"/>
@@ -1401,7 +1505,7 @@
 			</attributes>
 		</vehRec>
 		<vehTravTmRawData fromTime="0" toTime="99999" writeDatabase="false" writeFile="false"/>
-		<vehTravTms aggrBySect="DESTINATION" collectData="true" fromTime="60" interval="300" toTime="360"/>
+		<vehTravTms aggrBySect="DESTINATION" collectData="true" fromTime="60" interval="400" toTime="460"/>
 	</evaluation>
 	<levels>
 		<level name="Base" no="1" zCoord="0"/>
@@ -5267,6 +5371,18 @@
 		<refPointMap x="2359295.0776379118" y="5735256.253245349"/>
 		<refPointNet x="2359295.0776379118" y="5735256.253245349"/>
 	</netPara>
+	<nodes>
+		<node anmConnNodeNo="0" anmConnZoneNo="0" anmZoneNo="0" hasUserDefOrient="false" mesoPenalMerg="0" name="" no="1" showClsfValues="true" showTurnValVisual="true" turnValVisualSize="70" useForDynAssign="true" useForEval="true" useForMeso="false">
+			<geometry>
+				<points>
+					<point x="2359181.3774090349" y="5735302.021521627"/>
+					<point x="2359510.8956290288" y="5735302.021521627"/>
+					<point x="2359510.8956290288" y="5735625.06040345"/>
+					<point x="2359181.3774090349" y="5735625.06040345"/>
+				</points>
+			</geometry>
+		</node>
+	</nodes>
 	<occupancyDistributions>
 		<occupancyDistribution mean="1" name="Single Occupancy" no="1" stdDev="0" type="NORMAL"/>
 	</occupancyDistributions>
@@ -5429,8 +5545,8 @@
 				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10005 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="3.2197391046707682"/>
 				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10008 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="4.3677384272286384"/>
 				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10008 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="4.2151578308624167"/>
-				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.85487187734259973"/>
-				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.81600332309857815"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.53793129507209581"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.61189701460170431"/>
 			</conflictMarkers>
 		</priorityRule>
 		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10011 1" name="" no="20" pos="5.3825824000432156" sigState="GREEN" slowDownDist="3">
@@ -5464,8 +5580,8 @@
 		</priorityRule>
 		<priorityRule affectDrivDir="FORWARD" allPedTypes="true" allVehTypes="true" anmFlag="false" lane="10008 1" name="" no="24" pos="4.6547020303462512" sigState="GREEN" slowDownDist="3">
 			<conflictMarkers>
-				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.64119753750823127"/>
-				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.61165664260494534"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.42756978793131589"/>
+				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10010 2" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="0.4984164534602768"/>
 				<conflictMarker allPedTypes="true" allVehTypes="true" effectDrivDir="FORWARD" lane="10011 1" lookBeyRedSig="false" maxSpeed="180" minClear="5" minGapTime="3" pos="5.5928956538325432"/>
 			</conflictMarkers>
 		</priorityRule>
@@ -5496,6 +5612,13 @@
 			</conflictMarkers>
 		</priorityRule>
 	</priorityRules>
+	<queueCounters>
+		<queueCounter link="4" name="VE" no="2" pos="436.21430808145828"/>
+		<queueCounter link="1" name="SN" no="4" pos="381.56036683493085"/>
+		<queueCounter link="6" name="EV" no="6" pos="540.95164354369069"/>
+		<queueCounter link="8" name="NS" no="7" pos="642.97254523609593"/>
+		<queueCounter link="10009" name="NV" no="8" pos="5.8554813685454761"/>
+	</queueCounters>
 	<reducedSpeedAreas>
 		<reducedSpeedArea anmFlag="false" lane="10 1" length="8.3216168185800257" name="" no="24" pos="510.03533444009076" timeFrom="0" timeTo="2147483647"/>
 		<reducedSpeedArea anmFlag="false" lane="11 1" length="6.3066543673059812" name="" no="25" pos="116.08944136659191" timeFrom="0" timeTo="2147483647"/>
@@ -6163,7 +6286,78 @@
 				</vehicleRouteStatic>
 			</vehRoutSta>
 		</vehicleRoutingDecisionStatic>
+		<vehicleRoutingDecisionStatic allVehTypes="true" anmFlag="false" combineStaRoutDec="false" link="1" name="" no="16" pos="1.9400030449787584" routeChoiceMeth="STATIC">
+			<vehRoutSta>
+				<vehicleRouteStatic destLink="9" destPos="40.397898273863106" formula="" name="" no="1" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10004"/>
+						<intObjectRef key="5"/>
+						<intObjectRef key="10015"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+				<vehicleRouteStatic destLink="3" destPos="39.812998280725445" formula="" name="" no="2" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10000"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+				<vehicleRouteStatic destLink="7" destPos="41.689741850485881" formula="" name="" no="3" relFlow="">
+					<linkSeq>
+						<intObjectRef key="10005"/>
+					</linkSeq>
+				</vehicleRouteStatic>
+			</vehRoutSta>
+		</vehicleRoutingDecisionStatic>
 	</vehicleRoutingDecisionsStatic>
+	<vehicleTravelTimeMeasurements>
+		<vehicleTravelTimeMeasurement name="VE" no="1">
+			<end link="5" pos="81.31808203960081"/>
+			<start link="4" pos="369.17971144141472"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="VN" no="2">
+			<end link="7" pos="68.337046798608498"/>
+			<start link="4" pos="369.33014878010431"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="VS" no="3">
+			<end link="2" pos="69.425942713690802"/>
+			<start link="4" pos="369.54605924368849"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="NV" no="4">
+			<end link="3" pos="68.327709051493429"/>
+			<start link="8" pos="580.93451848885843"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="NS" no="5">
+			<end link="2" pos="69.235743558459916"/>
+			<start link="8" pos="581.20256995894238"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="NE" no="6">
+			<end link="5" pos="81.200305977920081"/>
+			<start link="8" pos="581.4404561896315"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="EV" no="7">
+			<end link="3" pos="68.182616228820422"/>
+			<start link="6" pos="453.58620695296491"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="EN" no="8">
+			<end link="7" pos="68.105626295837027"/>
+			<start link="6" pos="453.72394641194273"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="ES" no="9">
+			<end link="2" pos="69.034844772882707"/>
+			<start link="6" pos="453.89683394831633"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="SE" no="10">
+			<end link="5" pos="81.023196280468625"/>
+			<start link="1" pos="315.66908729198769"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="SV" no="11">
+			<end link="3" pos="68.008671135574758"/>
+			<start link="1" pos="315.82219162657856"/>
+		</vehicleTravelTimeMeasurement>
+		<vehicleTravelTimeMeasurement name="SN" no="12">
+			<end link="7" pos="67.891749388454443"/>
+			<start link="1" pos="316.05359922748409"/>
+		</vehicleTravelTimeMeasurement>
+	</vehicleTravelTimeMeasurements>
 	<vehicleTypes>
 		<vehicleType alightTm="0" anmFlag="false" boardTm="0" capExact="false" capacity="0" category="CAR" clearTmPT="0" colorDistr1="1" desAccelFunc="1" desDecelFunc="1" distCoeffPerMeter="0" doorClosDur="2" dwellTmIsAdd="true" equip="" extDriver="false" extDriverDLLFile="" extDriverParFile="" extEmissionDLLFile="" linkCostCoeff="1" maxAccelFunc="1" maxDecelFunc="1" model2D3DDistr="10" name="Car" no="100" occupDistr="1" travTmCoeff="1">
 			<parkLotSelPars>
