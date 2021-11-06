@@ -5620,97 +5620,396 @@
 		<queueCounter link="10009" name="NV" no="8" pos="5.8554813685454761"/>
 	</queueCounters>
 	<reducedSpeedAreas>
-		<reducedSpeedArea anmFlag="false" lane="10 1" length="8.3216168185800257" name="" no="24" pos="510.03533444009076" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="11 1" length="6.3066543673059812" name="" no="25" pos="116.08944136659191" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="12 1" length="5.6300764347834189" name="" no="26" pos="98.656760349992339" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="14 1" length="4.9172925045855607" name="" no="27" pos="97.480426151875093" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="16 1" length="5.3351513946182791" name="" no="29" pos="84.670859265566619" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="82 1" length="4.4189057652986037" name="" no="30" pos="45.9996251679962" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="80 1" length="4.4723938644524992" name="" no="31" pos="36.060188287025653" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="25 1" length="5.090074833848206" name="" no="32" pos="121.5245743920496" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="29 1" length="4.0964652875016867" name="" no="33" pos="56.996284728198034" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="27 1" length="3.8553992175274061" name="" no="34" pos="51.221319524654007" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="34 1" length="9.0825381359999042" name="" no="35" pos="57.821669508994241" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="32 1" length="5" name="" no="36" pos="246.36707661433817" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="49 1" length="5" name="" no="37" pos="60.067599333779299" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="33 1" length="5" name="" no="38" pos="242.74099959318963" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="39 1" length="6.5668883343892617" name="" no="44" pos="147.11056785032147" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="38 1" length="5" name="" no="46" pos="41.298856862110426" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="35 1" length="4.4975921422992116" name="" no="49" pos="63.126653115031601" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="40 1" length="6.5980193500690518" name="" no="50" pos="119.91175955598777" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="47 1" length="3.881905084619234" name="" no="51" pos="101.89252337524948" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="50 1" length="5.2881822551073583" name="" no="52" pos="145.14419236638818" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="41 1" length="5" name="" no="53" pos="177.13922287206506" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="52 1" length="5" name="" no="54" pos="301.25506478520282" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="47 1" length="4.4770863710890012" name="" no="55" pos="135.66603694231748" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="44 1" length="4.2639472722097622" name="" no="56" pos="93.31704667415174" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="37 1" length="6.4681729535550971" name="" no="57" pos="59.791557259877109" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="51 1" length="7.7984592483743427" name="" no="58" pos="186.38460929958694" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="36 1" length="5.0635049755525472" name="" no="59" pos="193.24390139957993" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="48 1" length="4.1252659556787137" name="" no="60" pos="133.72364515928064" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="63 1" length="3.9230996042969366" name="" no="61" pos="181.930668700799" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="36 1" length="5.6240244527844681" name="" no="62" pos="48.560185803613621" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="48 1" length="4.7522165094187869" name="" no="63" pos="194.93310526567819" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="52 1" length="4.2634567375375951" name="" no="64" pos="79.754470921200607" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="53 1" length="4.068903598114332" name="" no="65" pos="211.41984792711472" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="42 1" length="4.6091084105279094" name="" no="66" pos="181.39449086844655" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="4 1" length="5.5733031035193221" name="" no="67" pos="149.16264890142361" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10065 1" length="1.2542328217727992" name="" no="68" pos="11.171847226459811" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="4 1" length="7.7449973090944582" name="" no="69" pos="299.10974370626599" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="3 2" length="5.6690238948271769" name="" no="70" pos="118.31496556722834" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10060 1" length="3.4750186132412644" name="" no="71" pos="12.854909843142611" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="55 1" length="5.0573182957651284" name="" no="72" pos="142.56722348250935" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="54 1" length="4.1019616268663412" name="" no="73" pos="143.83109594924827" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="52 1" length="4.9837667300816975" name="" no="74" pos="165.05318738387206" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="67 1" length="4.0605799647687633" name="" no="75" pos="45.116541780960773" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="78 1" length="5" name="" no="76" pos="232.96993445678862" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="8 1" length="5.8058043217217801" name="" no="77" pos="538.3843722758063" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="57 1" length="2.3765563794360958" name="" no="78" pos="215.18664750389399" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="56 1" length="5" name="" no="79" pos="48.716307604846982" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="69 1" length="5" name="" no="80" pos="81.928153833179039" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="64 1" length="7.4173393925912166" name="" no="82" pos="117.87860668643722" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="3 1" length="5" name="" no="83" pos="179.10472389964775" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="79 1" length="5" name="" no="84" pos="51.337193337375084" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="61 1" length="5" name="" no="85" pos="29.657422520706834" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="3 1" length="5" name="" no="86" pos="406.47697233541993" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="62 1" length="5" name="" no="87" pos="29.534514798634238" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="60 1" length="5" name="" no="88" pos="407.2054609541434" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="65 1" length="4.607456220085453" name="" no="89" pos="220.33167140227613" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="59 1" length="4.6785127045230865" name="" no="90" pos="218.87580586235163" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="58 1" length="5.8041130437761126" name="" no="91" pos="140.2163237070655" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="58 1" length="6.6779697385240411" name="" no="92" pos="148.92418854496151" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="72 1" length="7.1243348945664593" name="" no="93" pos="310.25951344534201" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="71 1" length="4.800377512174407" name="" no="94" pos="97.666142739672438" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="74 1" length="5" name="" no="95" pos="127.80419674343739" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="74 1" length="5" name="" no="96" pos="99.419867114965285" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="73 1" length="5.1318061826108021" name="" no="97" pos="130.39334305508811" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="58 1" length="7.8752404959902833" name="" no="98" pos="349.06803393805711" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="75 1" length="5" name="" no="99" pos="80.070246245712042" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="76 1" length="5" name="" no="100" pos="118.84188681878811" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10000 1" length="4.6173455415584179" name="" no="101" pos="2.2075015996353042" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10007 1" length="3.5477987245463058" name="" no="102" pos="0.20982323893382926" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="6 3" length="7.2010039129527286" name="" no="103" pos="535.14980790222023" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="6 2" length="6.7995815837018654" name="" no="104" pos="535.32160679483354" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="6 1" length="6.7937076242350258" name="" no="105" pos="535.35097799690118" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="1 3" length="6.8471231577012759" name="" no="106" pos="375.73577611197214" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="1 2" length="6.6814298542252004" name="" no="107" pos="375.69717813194535" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="1 1" length="6.7244055858942602" name="" no="108" pos="375.52965295793177" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10006 1" length="3.4760870693699983" name="" no="109" pos="4.6694380998405274" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="4 1" length="7.1493145761590995" name="" no="110" pos="430.55376092111857" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="4 2" length="7.1609614525660845" name="" no="111" pos="430.65081822448479" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="4 3" length="7.0510502558322514" name="" no="112" pos="430.63874627462172" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10009 1" length="3.8825460156913207" name="" no="113" pos="3.3286821649534675" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="8 2" length="6.1382544252858224" name="" no="114" pos="637.59973518514551" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="8 3" length="6.2536290317167413" name="" no="115" pos="637.46757695585654" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="8 4" length="6.2853430097699174" name="" no="116" pos="637.46187950703984" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10002 1" length="1.7547994429805307" name="" no="117" pos="0.2890129164363171" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10004 1" length="4.3131002882540521" name="" no="118" pos="0.92581727550538262" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10001 1" length="4.8694817506617092" name="" no="119" pos="3.2446289784994686" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10011 1" length="3.5926840734644205" name="" no="120" pos="1.154308296057889" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10005 2" length="2.9988990738461125" name="" no="121" pos="0.27626292144197573" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10005 1" length="2.6711551649534426" name="" no="122" pos="0.42177481503465475" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10008 2" length="3.0813055289566296" name="" no="123" pos="0.98621825085177262" timeFrom="0" timeTo="2147483647"/>
-		<reducedSpeedArea anmFlag="false" lane="10008 1" length="3.2109220097963114" name="" no="124" pos="0.94241908718172429" timeFrom="0" timeTo="2147483647"/>
+		<reducedSpeedArea anmFlag="false" lane="10 1" length="8.3216168185800257" name="" no="24" pos="510.03533444009076" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="11 1" length="6.3066543673059812" name="" no="25" pos="116.08944136659191" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="12 1" length="5.6300764347834189" name="" no="26" pos="98.656760349992339" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="14 1" length="4.9172925045855607" name="" no="27" pos="97.480426151875093" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="16 1" length="5.3351513946182791" name="" no="29" pos="84.670859265566619" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="82 1" length="4.4189057652986037" name="" no="30" pos="45.9996251679962" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="80 1" length="4.4723938644524992" name="" no="31" pos="36.060188287025653" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="25 1" length="5.090074833848206" name="" no="32" pos="121.5245743920496" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="29 1" length="4.0964652875016867" name="" no="33" pos="56.996284728198034" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="27 1" length="3.8553992175274061" name="" no="34" pos="51.221319524654007" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="34 1" length="9.0825381359999042" name="" no="35" pos="57.821669508994241" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="32 1" length="5" name="" no="36" pos="246.36707661433817" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="49 1" length="5" name="" no="37" pos="60.067599333779299" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="33 1" length="5" name="" no="38" pos="242.74099959318963" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="39 1" length="6.5668883343892617" name="" no="44" pos="147.11056785032147" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="38 1" length="5" name="" no="46" pos="41.298856862110426" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="35 1" length="4.4975921422992116" name="" no="49" pos="63.126653115031601" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="40 1" length="6.5980193500690518" name="" no="50" pos="119.91175955598777" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="47 1" length="3.881905084619234" name="" no="51" pos="101.89252337524948" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="50 1" length="5.2881822551073583" name="" no="52" pos="145.14419236638818" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="41 1" length="5" name="" no="53" pos="177.13922287206506" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="52 1" length="5" name="" no="54" pos="301.25506478520282" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="47 1" length="4.4770863710890012" name="" no="55" pos="135.66603694231748" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="44 1" length="4.2639472722097622" name="" no="56" pos="93.31704667415174" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="37 1" length="6.4681729535550971" name="" no="57" pos="59.791557259877109" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="51 1" length="7.7984592483743427" name="" no="58" pos="186.38460929958694" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="36 1" length="5.0635049755525472" name="" no="59" pos="193.24390139957993" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="48 1" length="4.1252659556787137" name="" no="60" pos="133.72364515928064" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="63 1" length="3.9230996042969366" name="" no="61" pos="181.930668700799" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="36 1" length="5.6240244527844681" name="" no="62" pos="48.560185803613621" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="48 1" length="4.7522165094187869" name="" no="63" pos="194.93310526567819" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="52 1" length="4.2634567375375951" name="" no="64" pos="79.754470921200607" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="53 1" length="4.068903598114332" name="" no="65" pos="211.41984792711472" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="42 1" length="4.6091084105279094" name="" no="66" pos="181.39449086844655" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="4 1" length="5.5733031035193221" name="" no="67" pos="149.16264890142361" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10065 1" length="1.2542328217727992" name="" no="68" pos="11.171847226459811" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="4 1" length="7.7449973090944582" name="" no="69" pos="299.10974370626599" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="3 2" length="5.6690238948271769" name="" no="70" pos="118.31496556722834" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10060 1" length="3.4750186132412644" name="" no="71" pos="12.854909843142611" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="55 1" length="5.0573182957651284" name="" no="72" pos="142.56722348250935" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="54 1" length="4.1019616268663412" name="" no="73" pos="143.83109594924827" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="52 1" length="4.9837667300816975" name="" no="74" pos="165.05318738387206" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="67 1" length="4.0605799647687633" name="" no="75" pos="45.116541780960773" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="78 1" length="5" name="" no="76" pos="232.96993445678862" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="8 1" length="5.8058043217217801" name="" no="77" pos="538.3843722758063" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="57 1" length="2.3765563794360958" name="" no="78" pos="215.18664750389399" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="56 1" length="5" name="" no="79" pos="48.716307604846982" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="69 1" length="5" name="" no="80" pos="81.928153833179039" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="64 1" length="7.4173393925912166" name="" no="82" pos="117.87860668643722" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="3 1" length="5" name="" no="83" pos="179.10472389964775" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="79 1" length="5" name="" no="84" pos="51.337193337375084" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="61 1" length="5" name="" no="85" pos="29.657422520706834" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="3 1" length="5" name="" no="86" pos="406.47697233541993" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="62 1" length="5" name="" no="87" pos="29.534514798634238" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="60 1" length="5" name="" no="88" pos="407.2054609541434" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="65 1" length="4.607456220085453" name="" no="89" pos="220.33167140227613" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="59 1" length="4.6785127045230865" name="" no="90" pos="218.87580586235163" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="58 1" length="5.8041130437761126" name="" no="91" pos="140.2163237070655" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="58 1" length="6.6779697385240411" name="" no="92" pos="148.92418854496151" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="72 1" length="7.1243348945664593" name="" no="93" pos="310.25951344534201" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="71 1" length="4.800377512174407" name="" no="94" pos="97.666142739672438" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="74 1" length="5" name="" no="95" pos="127.80419674343739" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="74 1" length="5" name="" no="96" pos="99.419867114965285" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="73 1" length="5.1318061826108021" name="" no="97" pos="130.39334305508811" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="58 1" length="7.8752404959902833" name="" no="98" pos="349.06803393805711" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="75 1" length="5" name="" no="99" pos="80.070246245712042" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="76 1" length="5" name="" no="100" pos="118.84188681878811" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10000 1" length="25.095815040586292" name="" no="101" pos="2.2075015996353042" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10007 1" length="23.169819115542545" name="" no="102" pos="0.20982323893382926" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10006 1" length="11.295058272307712" name="" no="109" pos="1.0468387561724082" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10009 1" length="8.4993008409582789" name="" no="113" pos="1.0434047147719954" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10002 1" length="20.04073884599994" name="" no="117" pos="0.2890129164363171" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10004 1" length="9.1323899459661799" name="" no="118" pos="0.92581727550538262" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10001 1" length="10.283860544974962" name="" no="119" pos="1.1331034057620779" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10011 1" length="31.277388400388357" name="" no="120" pos="1.154308296057889" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10005 2" length="2.9988990738461125" name="" no="121" pos="0.27626292144197573" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10005 1" length="2.6711551649534426" name="" no="122" pos="0.42177481503465475" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
+		<reducedSpeedArea anmFlag="false" lane="10008 1" length="3.2109220097963114" name="" no="124" pos="0.94241908718172429" timeFrom="0" timeTo="2147483647">
+			<vehClassSpeedRed>
+				<vehClassSpeedReduction decel="2" desSpeedDistr="25" vehClass="10"/>
+			</vehClassSpeedRed>
+		</reducedSpeedArea>
 	</reducedSpeedAreas>
 	<signalControllers>
 		<signalController active="true" cycTm="0" cycTmIsVar="false" debug="false" guiFile="#exe#vissig_gui.dll" intSupplyData="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzYyB2ZXJzaW9uPSIyMDIwMDEiIGlkPSIxIiBuYW1lPSIiIGZyZXF1ZW5jeT0iMTAiIHN0ZXBzPSIwIiBkZWZhdWx0SW50ZXJncmVlbk1hdHJpeD0iMCIgaW50ZXJzdGFnZXNVc2luZ01pbkR1cmF0aW9ucz0idHJ1ZSIgY2hlY2tTdW09IjE1ODc5MTUxMjQiPg0KICA8c2lnbmFsZGlzcGxheXM+DQogICAgPGRpc3BsYXkgaWQ9IjEiIG5hbWU9IlJlZCIgc3RhdGU9IlJFRCI+DQogICAgICA8cGF0dGVybnM+DQogICAgICAgIDxwYXR0ZXJuIHBhdHRlcm49Ik1JTlVTIiBjb2xvcj0iI0ZGMDAwMCIgaXNCb2xkPSJ0cnVlIiAvPg0KICAgICAgPC9wYXR0ZXJucz4NCiAgICA8L2Rpc3BsYXk+DQogICAgPGRpc3BsYXkgaWQ9IjIiIG5hbWU9IlJlZC9BbWJlciIgc3RhdGU9IlJFREFNQkVSIj4NCiAgICAgIDxwYXR0ZXJucz4NCiAgICAgICAgPHBhdHRlcm4gcGF0dGVybj0iRlJBTUUiIGNvbG9yPSIjQ0NDQzAwIiBpc0JvbGQ9InRydWUiIC8+DQogICAgICAgIDxwYXR0ZXJuIHBhdHRlcm49IlNMQVNIIiBjb2xvcj0iI0NDMDAwMCIgaXNCb2xkPSJmYWxzZSIgLz4NCiAgICAgICAgPHBhdHRlcm4gcGF0dGVybj0iTUlOVVMiIGNvbG9yPSIjQ0MwMDAwIiBpc0JvbGQ9ImZhbHNlIiAvPg0KICAgICAgPC9wYXR0ZXJucz4NCiAgICA8L2Rpc3BsYXk+DQogICAgPGRpc3BsYXkgaWQ9IjMiIG5hbWU9IkdyZWVuIiBzdGF0ZT0iR1JFRU4iPg0KICAgICAgPHBhdHRlcm5zPg0KICAgICAgICA8cGF0dGVybiBwYXR0ZXJuPSJGUkFNRSIgY29sb3I9IiMwMENDMDAiIGlzQm9sZD0idHJ1ZSIgLz4NCiAgICAgICAgPHBhdHRlcm4gcGF0dGVybj0iU09MSUQiIGNvbG9yPSIjMDBDQzAwIiBpc0JvbGQ9ImZhbHNlIiAvPg0KICAgICAgPC9wYXR0ZXJucz4NCiAgICA8L2Rpc3BsYXk+DQogICAgPGRpc3BsYXkgaWQ9IjQiIG5hbWU9IkFtYmVyIiBzdGF0ZT0iQU1CRVIiPg0KICAgICAgPHBhdHRlcm5zPg0KICAgICAgICA8cGF0dGVybiBwYXR0ZXJuPSJGUkFNRSIgY29sb3I9IiNDQ0NDMDAiIGlzQm9sZD0idHJ1ZSIgLz4NCiAgICAgICAgPHBhdHRlcm4gcGF0dGVybj0iU0xBU0giIGNvbG9yPSIjQ0NDQzAwIiBpc0JvbGQ9ImZhbHNlIiAvPg0KICAgICAgPC9wYXR0ZXJucz4NCiAgICA8L2Rpc3BsYXk+DQogIDwvc2lnbmFsZGlzcGxheXM+DQogIDxzaWduYWxzZXF1ZW5jZXM+DQogICAgPHNpZ25hbHNlcXVlbmNlIGlkPSIzIiBuYW1lPSJSZWQtUmVkL0FtYmVyLUdyZWVuLUFtYmVyIj4NCiAgICAgIDxzdGF0ZSBkaXNwbGF5PSIxIiBpc0ZpeGVkRHVyYXRpb249ImZhbHNlIiBpc0Nsb3NlZD0idHJ1ZSIgZGVmYXVsdER1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgPHN0YXRlIGRpc3BsYXk9IjIiIGlzRml4ZWREdXJhdGlvbj0idHJ1ZSIgaXNDbG9zZWQ9InRydWUiIGRlZmF1bHREdXJhdGlvbj0iMTAwMCIgLz4NCiAgICAgIDxzdGF0ZSBkaXNwbGF5PSIzIiBpc0ZpeGVkRHVyYXRpb249ImZhbHNlIiBpc0Nsb3NlZD0iZmFsc2UiIGRlZmF1bHREdXJhdGlvbj0iNTAwMCIgLz4NCiAgICAgIDxzdGF0ZSBkaXNwbGF5PSI0IiBpc0ZpeGVkRHVyYXRpb249InRydWUiIGlzQ2xvc2VkPSJ0cnVlIiBkZWZhdWx0RHVyYXRpb249IjMwMDAiIC8+DQogICAgPC9zaWduYWxzZXF1ZW5jZT4NCiAgPC9zaWduYWxzZXF1ZW5jZXM+DQogIDxzZ3M+DQogICAgPHNnIGlkPSIxIiBuYW1lPSJOUyIgZGVmYXVsdFNpZ25hbFNlcXVlbmNlPSIzIj4NCiAgICAgIDxkZWZhdWx0RHVyYXRpb25zPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjEiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjIiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjMiIGR1cmF0aW9uPSI1MDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjQiIGR1cmF0aW9uPSIzMDAwIiAvPg0KICAgICAgPC9kZWZhdWx0RHVyYXRpb25zPg0KICAgIDwvc2c+DQogICAgPHNnIGlkPSIyIiBuYW1lPSJWRSIgZGVmYXVsdFNpZ25hbFNlcXVlbmNlPSIzIj4NCiAgICAgIDxkZWZhdWx0RHVyYXRpb25zPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjEiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjIiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjMiIGR1cmF0aW9uPSI1MDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjQiIGR1cmF0aW9uPSIzMDAwIiAvPg0KICAgICAgPC9kZWZhdWx0RHVyYXRpb25zPg0KICAgIDwvc2c+DQogICAgPHNnIGlkPSI1IiBuYW1lPSJOViIgZGVmYXVsdFNpZ25hbFNlcXVlbmNlPSIzIj4NCiAgICAgIDxkZWZhdWx0RHVyYXRpb25zPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjEiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjIiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjMiIGR1cmF0aW9uPSI1MDAwIiAvPg0KICAgICAgICA8ZGVmYXVsdER1cmF0aW9uIGRpc3BsYXk9IjQiIGR1cmF0aW9uPSIzMDAwIiAvPg0KICAgICAgPC9kZWZhdWx0RHVyYXRpb25zPg0KICAgIDwvc2c+DQogIDwvc2dzPg0KICA8aW50ZXJncmVlbm1hdHJpY2VzIC8+DQogIDxwcm9ncz4NCiAgICA8cHJvZyBpZD0iMSIgY3ljbGV0aW1lPSI2MDAwMCIgc3dpdGNocG9pbnQ9IjAiIG9mZnNldD0iMCIgaW50ZXJncmVlbnM9IjAiIGZpdG5lc3M9IjAuMDAwMDAwIiB2ZWhpY2xlQ291bnQ9IjAiIG5hbWU9IlNpZ25hbCBwcm9ncmFtIDEiPg0KICAgICAgPHNncz4NCiAgICAgICAgPHNnIHNnX2lkPSIxIiBzaWduYWxfc2VxdWVuY2U9IjMiPg0KICAgICAgICAgIDxjbWRzPg0KICAgICAgICAgICAgPGNtZCBkaXNwbGF5PSIzIiBiZWdpbj0iMjAwMCIgLz4NCiAgICAgICAgICAgIDxjbWQgZGlzcGxheT0iMSIgYmVnaW49IjMxMDAwIiAvPg0KICAgICAgICAgIDwvY21kcz4NCiAgICAgICAgICA8Zml4ZWRzdGF0ZXM+DQogICAgICAgICAgICA8Zml4ZWRzdGF0ZSBkaXNwbGF5PSIyIiBkdXJhdGlvbj0iMTAwMCIgLz4NCiAgICAgICAgICAgIDxmaXhlZHN0YXRlIGRpc3BsYXk9IjQiIGR1cmF0aW9uPSIzMDAwIiAvPg0KICAgICAgICAgIDwvZml4ZWRzdGF0ZXM+DQogICAgICAgIDwvc2c+DQogICAgICAgIDxzZyBzZ19pZD0iMiIgc2lnbmFsX3NlcXVlbmNlPSIzIj4NCiAgICAgICAgICA8Y21kcz4NCiAgICAgICAgICAgIDxjbWQgZGlzcGxheT0iMyIgYmVnaW49IjMwODAwIiAvPg0KICAgICAgICAgICAgPGNtZCBkaXNwbGF5PSIxIiBiZWdpbj0iNTk4MDAiIC8+DQogICAgICAgICAgPC9jbWRzPg0KICAgICAgICAgIDxmaXhlZHN0YXRlcz4NCiAgICAgICAgICAgIDxmaXhlZHN0YXRlIGRpc3BsYXk9IjIiIGR1cmF0aW9uPSIxMDAwIiAvPg0KICAgICAgICAgICAgPGZpeGVkc3RhdGUgZGlzcGxheT0iNCIgZHVyYXRpb249IjMwMDAiIC8+DQogICAgICAgICAgPC9maXhlZHN0YXRlcz4NCiAgICAgICAgPC9zZz4NCiAgICAgICAgPHNnIHNnX2lkPSI1IiBzaWduYWxfc2VxdWVuY2U9IjMiPg0KICAgICAgICAgIDxjbWRzPg0KICAgICAgICAgICAgPGNtZCBkaXNwbGF5PSIzIiBiZWdpbj0iMjAwMCIgLz4NCiAgICAgICAgICAgIDxjbWQgZGlzcGxheT0iMSIgYmVnaW49IjQzMDAwIiAvPg0KICAgICAgICAgIDwvY21kcz4NCiAgICAgICAgICA8Zml4ZWRzdGF0ZXM+DQogICAgICAgICAgICA8Zml4ZWRzdGF0ZSBkaXNwbGF5PSIyIiBkdXJhdGlvbj0iMTAwMCIgLz4NCiAgICAgICAgICAgIDxmaXhlZHN0YXRlIGRpc3BsYXk9IjQiIGR1cmF0aW9uPSIzMDAwIiAvPg0KICAgICAgICAgIDwvZml4ZWRzdGF0ZXM+DQogICAgICAgIDwvc2c+DQogICAgICA8L3Nncz4NCiAgICA8L3Byb2c+DQogIDwvcHJvZ3M+DQogIDxzdGFnZXMgLz4NCiAgPGludGVyc3RhZ2VQcm9ncyAvPg0KICA8c3RhZ2VQcm9ncyAvPg0KICA8ZGFpbHlQcm9nTGlzdHMgLz4NCjwvc2M+" name="" no="1" offset="0" progFile="#exe#vissig_controller.dll" progNo="1" scDetRecLabelDet="PORTNUMBER" scDetRecLabelSG="NUMBER" scDetRecShortNam="false" sigTmsTabAutoConfig="true" sigTmsTabLabelDet="PORTNUMBER" sigTmsTabLabelSG="NUMBER" supplyFile1="#exe#vissig.config" supplyFile2="" supplyFile3="" type="FIXEDTIME">
